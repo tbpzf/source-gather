@@ -11,10 +11,12 @@
   },
   "private": true,
   "dependencies": {
+    "@nextui-org/react": "^2.4.6",
     "axios": "^1.6.0",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "express": "~4.18.1",
+    "framer-motion": "^11.3.24",
     "next": "14.2.3",
     "puppeteer": "^23.0.1",
     "react": "18.3.1",
